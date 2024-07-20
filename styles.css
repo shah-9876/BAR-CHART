@@ -1,0 +1,14 @@
+/* styles.css */
+
+/* Import and apply Poppins font to entire document */
+@import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap');
+
+body {
+    font-family: "Kode Mono", monospace;
+}
+
+.chart-container {
+    width: 80%; /* Adjust width as needed */
+    margin: auto; /* Center align */
+    text-align: center;
+}
